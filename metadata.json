@@ -1,0 +1,7 @@
+{
+  "name": "Rain Alert Dashboard",
+  "description": "A companion web dashboard for the Rain Alert LINE OA system. Manage locations, view real-time precipitation forecasts, and receive AI-powered weather insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
